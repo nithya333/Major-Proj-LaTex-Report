@@ -1,0 +1,4 @@
+*.aux
+main.[^t]*
+main.toc
+main-blx.bib
