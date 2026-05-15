@@ -1,4 +1,6 @@
 *.aux
 main.[^t]*
+!main.pdf
 main.toc
 main-blx.bib
+debug.log
